@@ -10,5 +10,5 @@ Materials for NLP course 2019
 | 5 | [Lecture 5](https://github.com/BruchesLena/NLP/blob/master/Lecture_5.pdf) | Knowledge representation for computer processing: thesaurus, frames, semantic networks |
 | 6 | [Lecture 6](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf) | Knowledge representation for computer processing: ontology                             |
 |  7 |[Lecture_7](https://github.com/BruchesLena/NLP/blob/master/Lecture_7.pdf)                                                                           |    Natural Language Generation                                                                                    |
-|   |                                                                           |                                                                                        |
+| 8  |[Lecture_8](https://github.com/BruchesLena/NLP/blob/master/Lecture_8.pdf)                                                                           | Information Extraction                                                                                       |
 |   |                                                                           |                                                                                        |
