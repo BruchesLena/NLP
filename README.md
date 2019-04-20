@@ -9,6 +9,6 @@ Materials for NLP course 2019
 | 4 | [Lecture 4](https://github.com/BruchesLena/NLP/blob/master/Lecture_4.pdf) | Semantic analysis. Theory "Meaning <=> Text". Semantic role labelling                  |
 | 5 | [Lecture 5](https://github.com/BruchesLena/NLP/blob/master/Lecture_5.pdf) | Knowledge representation for computer processing: thesaurus, frames, semantic networks |
 | 6 | [Lecture 6](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf) | Knowledge representation for computer processing: ontology                             |
-|   |                                                                           |                                                                                        |
+|  7 |[Lecture_7](https://github.com/BruchesLena/NLP/blob/master/Lecture_7.pdf)                                                                           |    Natural Language Generation                                                                                    |
 |   |                                                                           |                                                                                        |
 |   |                                                                           |                                                                                        |
