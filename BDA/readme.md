@@ -15,3 +15,9 @@ Lecture 3: [Syntax analysis: software](https://github.com/BruchesLena/NLP/blob/m
 Task 2: https://github.com/BruchesLena/NLP/blob/master/BDA/Task_2_BDA.ipynb.zip
 
 ---
+
+Lecture 4: [Semantic analysis](https://github.com/BruchesLena/NLP/blob/master/Lecture_4.pdf)
+
+---
+
+
