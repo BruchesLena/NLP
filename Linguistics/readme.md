@@ -15,3 +15,7 @@
 Семинар 3: [Синтаксический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Seminar_3_IH.ipynb.zip)
 
 ---
+
+Лекция 4: [Семантический анализ](https://github.com/BruchesLena/NLP/blob/master/Lecture_4.pdf)
+
+---
