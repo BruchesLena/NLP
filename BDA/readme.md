@@ -20,4 +20,12 @@ Lecture 4: [Semantic analysis](https://github.com/BruchesLena/NLP/blob/master/Le
 
 ---
 
+Lecture 5: [Knowledge represenation for computer processing: thesaurus, semantic networks, frames](https://github.com/BruchesLena/NLP/blob/master/Lecture_5.pdf)
 
+---
+
+Lecture 6: [Knowledge represenation for computer processing: ontology](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf)
+
+Task 3: [Protege](https://github.com/BruchesLena/NLP/blob/master/BDA/Tutorial%20for%20Protoge_EN.pdf)
+
+---
