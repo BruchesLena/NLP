@@ -19,3 +19,15 @@
 Лекция 4: [Семантический анализ](https://github.com/BruchesLena/NLP/blob/master/Lecture_4.pdf)
 
 ---
+
+Лекция 5: [Формальные грамматики](https://github.com/BruchesLena/NLP/blob/master/Linguistics/NLP_Lecture%204.pdf)
+
+---
+
+Лекция 6: [Представление знаний для компьютерной обработки: тезаурусы, семантические сети, фрэймы](https://github.com/BruchesLena/NLP/blob/master/Lecture_5.pdf)
+
+---
+
+Лекция 7: [Представление знаний для компьютерной обработки: онтологии](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf)
+
+Семинар 7: [Protege](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Tutorial%20for%20Protoge.pdf)
