@@ -29,3 +29,9 @@ Lecture 6: [Knowledge represenation for computer processing: ontology](https://g
 Task 3: [Protege](https://github.com/BruchesLena/NLP/blob/master/BDA/Tutorial%20for%20Protoge_EN.pdf)
 
 ---
+
+Lecture 7: [Sentiment analysis](https://github.com/BruchesLena/NLP/blob/master/BDA/NLP_Lecture%207_Sentiment.pdf)
+
+Task 4: https://github.com/BruchesLena/NLP/blob/master/BDA/SentimentAnalysis_BDA.ipynb.zip
+
+---
