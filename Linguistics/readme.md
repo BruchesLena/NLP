@@ -31,3 +31,11 @@
 Лекция 7: [Представление знаний для компьютерной обработки: онтологии](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf)
 
 Семинар 7: [Protege](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Tutorial%20for%20Protoge.pdf)
+
+---
+
+Лекция 8: [Анализ тональности](https://github.com/BruchesLena/NLP/blob/master/Linguistics/NLP_Lecture%207.pdf)
+
+Семинар 8: https://github.com/BruchesLena/NLP/blob/master/Linguistics/SentimentAnalysis_seminar7.ipynb.zip
+
+---
