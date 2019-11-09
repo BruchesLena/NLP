@@ -35,3 +35,10 @@ Lecture 7: [Sentiment analysis](https://github.com/BruchesLena/NLP/blob/master/B
 Task 4: https://github.com/BruchesLena/NLP/blob/master/BDA/SentimentAnalysis_BDA.ipynb.zip
 
 ---
+
+Lecture 8: [Information extraction](https://github.com/BruchesLena/NLP/blob/master/Lecture_8.pdf)
+
+Task 5: https://github.com/BruchesLena/NLP/blob/master/BDA/NER_assignment.ipynb.zip
+
+---
+
