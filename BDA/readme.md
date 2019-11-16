@@ -42,3 +42,8 @@ Task 5: https://github.com/BruchesLena/NLP/blob/master/BDA/NER_assignment.ipynb.
 
 ---
 
+Lecture 9: [Natural Language Generation](https://github.com/BruchesLena/NLP/blob/master/Lecture_7.pdf)
+
+Task 6: [Creating chat-bot with Dialogflow](https://github.com/BruchesLena/NLP/blob/master/BDA/Creating%20chat-bot%20with%20Dialogflow.pdf)
+
+---
