@@ -42,4 +42,4 @@
 
 Лекция 9: [Извлечение информации](https://github.com/BruchesLena/NLP/blob/master/Lecture_8.pdf)
 
-Семинар 9: https://github.com/BruchesLena/NLP/blob/master/Linguistics/NER_assignment_ru.ipynb.zip
+Семинар 9: https://github.com/BruchesLena/NLP/blob/master/Linguistics/NER_assignment_ru%20(1).ipynb.zip
