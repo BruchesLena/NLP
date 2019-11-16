@@ -39,3 +39,7 @@
 Семинар 8: https://github.com/BruchesLena/NLP/blob/master/Linguistics/SentimentAnalysis_seminar7.ipynb.zip
 
 ---
+
+Лекция 9: [Извлечение информации](https://github.com/BruchesLena/NLP/blob/master/Lecture_8.pdf)
+
+Семинар 9: 
