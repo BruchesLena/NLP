@@ -4,5 +4,7 @@
 
 [Лекция 2: Векторные представления слов](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_2.pdf)
 
+[Семинар 1: Word2Vec](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Seminar_Word2vec.ipynb.zip)
+
 ---
 
