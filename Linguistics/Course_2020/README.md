@@ -8,3 +8,5 @@
 
 ---
 
+[Лекция 3: Морфологический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_3.pdf)
+
