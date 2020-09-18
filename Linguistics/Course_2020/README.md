@@ -10,3 +10,9 @@
 
 [Лекция 3: Морфологический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_3.pdf)
 
+[Семинар 2: Морфологический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Seminar_morph.ipynb.zip)
+
+---
+
+[Лекция 4: Синтаксический анализ. Часть 1](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_4.pdf)
+
