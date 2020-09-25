@@ -16,3 +16,7 @@
 
 [Лекция 4: Синтаксический анализ. Часть 1](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_4.pdf)
 
+[Семинар 3: Синтаксический анализ. Построение синтаксических деревьев](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Seminar_syntax_tree.pdf)
+
+---
+
