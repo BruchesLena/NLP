@@ -20,3 +20,7 @@
 
 ---
 
+[Лекция 5: Синтаксический анализ. Часть 2: Подходы и инструменты. Оценка качества](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_5.pdf)
+
+
+
