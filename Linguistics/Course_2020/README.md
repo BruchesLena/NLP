@@ -26,5 +26,8 @@
 
 ---
 
+[Лекция 6: Семантический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_6.pdf)
+
+
 
 
