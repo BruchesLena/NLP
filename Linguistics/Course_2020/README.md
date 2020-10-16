@@ -28,6 +28,8 @@
 
 [Лекция 6: Семантический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_6.pdf)
 
+[Семинар 5: Семантический анализ](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Seminar_6.pdf)
+
 ---
 
 [Лекция 7: Формальные грамматики](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_7.pdf)
