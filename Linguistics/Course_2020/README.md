@@ -34,6 +34,8 @@
 
 [Лекция 7: Формальные грамматики](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_7.pdf)
 
+[Семинар 6: Формальные грамматики](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Seminar_formal_grammars.docx.pdf)
+
 
 
 
