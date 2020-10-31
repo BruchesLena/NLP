@@ -40,4 +40,7 @@
 
 [Лекция 8: Представление знаний для компьютерной обработки. Часть 1](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_8.pdf)
 
+---
+
+[Лекция 9: Представление знаний для компьютерной обработки. Часть 2](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf)
 
