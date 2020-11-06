@@ -44,3 +44,7 @@
 
 [Лекция 9: Представление знаний для компьютерной обработки. Часть 2](https://github.com/BruchesLena/NLP/blob/master/Lecture_6.pdf)
 
+[Семинар 9: Protege](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Tutorial%20for%20Protoge.pdf)
+
+---
+
