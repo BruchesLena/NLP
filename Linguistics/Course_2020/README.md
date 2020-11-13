@@ -48,3 +48,8 @@
 
 ---
 
+[Лекция 10: Анализ тональности](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_10.pdf)
+
+[Семинар 10: Анализ тональности](https://github.com/BruchesLena/NLP/blob/master/Linguistics/SentimentAnalysis_seminar7.ipynb.zip)
+
+---
