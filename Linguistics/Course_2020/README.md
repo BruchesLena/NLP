@@ -54,6 +54,12 @@
 
 ---
 
-[Лекция 11: Определение семантических ролей](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Semantic%20role%20labelling.pdf)
+[Лекция 11: Извлечение информации](https://github.com/BruchesLena/NLP/blob/master/Lecture_8.pdf)
+
+[Семинар 11: Извлечение именованных сущностей](https://github.com/BruchesLena/NLP/blob/master/Linguistics/NER_assignment_ru%20(1).ipynb.zip)
+
+---
+
+[Лекция 12: Определение семантических ролей](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Semantic%20role%20labelling.pdf)
 
 ---
