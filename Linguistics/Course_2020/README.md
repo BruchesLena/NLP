@@ -53,3 +53,7 @@
 [Семинар 10: Анализ тональности](https://github.com/BruchesLena/NLP/blob/master/Linguistics/SentimentAnalysis_seminar7.ipynb.zip)
 
 ---
+
+[Лекция 11: Определение семантических ролей](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Semantic%20role%20labelling.pdf)
+
+---
