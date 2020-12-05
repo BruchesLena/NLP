@@ -63,3 +63,11 @@
 [Лекция 12: Определение семантических ролей](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Semantic%20role%20labelling.pdf)
 
 ---
+
+[Лекция 13: Генерация текста и диалоговые системы](https://github.com/BruchesLena/NLP/blob/master/Lecture_7.pdf)
+
+[Семинар 13: Создание чат-бота на платформе Dialogflow](https://github.com/BruchesLena/NLP/blob/master/BDA/Creating%20chat-bot%20with%20Dialogflow.pdf)
+
+---
+
+
