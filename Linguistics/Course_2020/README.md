@@ -70,4 +70,9 @@
 
 ---
 
+[Лекция 14: Вопросно-ответные системы](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Lecture_QA.pdf)
+
+[Семинар 14: Генерация текстов](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/LSTM_seminar.ipynb.zip)
+
+---
 
