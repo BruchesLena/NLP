@@ -76,3 +76,4 @@
 
 ---
 
+[Лекция 15: Trends in NLP](https://github.com/BruchesLena/NLP/blob/master/Linguistics/Course_2020/Trends_NLP_2020.pdf)
